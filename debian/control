@@ -1,0 +1,13 @@
+Source: ksplash-theme-sidux-2006
+Section: graphics
+Priority: optional
+Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Build-Depends: cdbs, debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: ksplash-theme-sidux-2006
+Architecture: all
+Depends: ksplash
+Description: penguin ksplash theme for sidux
+ This package includes a sidux ksplash screen, which is seen when
+ a KDE session is launched. It features the planets of our solar system.

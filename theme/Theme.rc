@@ -1,0 +1,10 @@
+[KSplash Theme: sidux-2006]
+Name = sidux-2006
+Description = sidux splash
+Version = 1.0
+Author = Cathbard Druid
+
+Engine = Default
+
+Icons Flashing = true
+
