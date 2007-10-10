@@ -1,6 +1,6 @@
 ksplash-theme-sidux-2006 (0.1.1) UNRELEASED; urgency=low
 
-  * NO RELEASED YET
+  * NOT RELEASED YET
   * add VCS control headers.
   * update syntax for Vcs headers in debian/control
 
